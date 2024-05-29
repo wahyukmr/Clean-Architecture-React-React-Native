@@ -1,4 +1,4 @@
-**_Clean architecture_** adalah cara mengatur kode dalam aplikasi supaya lebih mudah diubah, diperbaiki, dan diuji. Ini dilakukan dengan membagi kode menjadi beberapa bagian yang masing-masing punya tugas tertentu dan tidak saling bergantung satu sama lain.
+**Clean architecture** adalah cara mengatur kode dalam aplikasi supaya lebih mudah diubah, diperbaiki, dan diuji. Ini dilakukan dengan membagi kode menjadi beberapa bagian yang masing-masing punya tugas tertentu dan tidak saling bergantung satu sama lain.
 
 Apa saja lapisan-lapisan dalam _clean architecture_? Bayangkan aplikasi seperti sebuah rumah:
 
@@ -13,8 +13,8 @@ Prinsip utamanya adalah memastikan bagian penting di dalam rumah (logika dan atu
 
 Lima pola _clean architecture_ yang umum dalam React Native:
 
-1. **_Layered Architecture_**: membagi aplikasi menjadi beberapa lapisan seperti: presentation, application, domain, dan infrastructure.
-2. **_MVC (Model View Controller)_**
-3. **_MVVM (Model-View-View-Model)_**
-4. **_Monolithic_**
-5. **_MVP (Model View Presenter)_**
+1. **Layered Architecture**
+2. **MVC (_Model View Controller_)**
+3. **MVVM (_Model-View-View-Model_)**
+4. **Monolithic**
+5. **MVP (_Model View Presenter_)**
